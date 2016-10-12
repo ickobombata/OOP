@@ -1,0 +1,296 @@
+# depslib dependency file v1.0
+1402513598 source:c:\users\martin\desktop\oopto\card.cpp
+	"Card.h"
+	"Skill.h"
+
+1402508482 c:\users\martin\desktop\oopto\card.h
+	<iostream>
+	"header.h"
+
+1402259730 c:\users\martin\desktop\oopto\header.h
+	<iomanip>
+	<cstring>
+	<fstream>
+
+1402513634 source:c:\users\martin\desktop\oopto\main.cpp
+	<iostream>
+	"header.h"
+	"Guard.h"
+	"Assasin.h"
+	"Deck.h"
+	"BattleField.h"
+	"attackSkill.h"
+	"healingSkill.h"
+	"BigFireBall.h"
+	"postponeSkill.h"
+
+1402254466 c:\users\martin\desktop\oopto\deck.h
+	<iostream>
+	"header.h"
+	"Card.h"
+
+1401920357 source:c:\users\martin\desktop\oopto\deck.cpp
+	"Deck.h"
+
+1397244533 source:c:\users\martin\university\oopto\card.cpp
+	"Card.h"
+
+1397221339 c:\users\martin\university\oopto\card.h
+	<iostream>
+	"header.h"
+
+1397158425 c:\users\martin\university\oopto\header.h
+	<iomanip>
+	<cstring>
+	<fstream>
+
+1397397983 source:c:\users\martin\university\oopto\deck.cpp
+	"Deck.h"
+
+1397397712 c:\users\martin\university\oopto\deck.h
+	<iostream>
+	"header.h"
+	"Card.h"
+
+1397387993 source:c:\users\martin\university\oopto\main.cpp
+	<iostream>
+	"header.h"
+	"Card.h"
+	"Deck.h"
+
+1402256486 source:c:\users\martin\desktop\oopto\battlefield.cpp
+	"BattleField.h"
+
+1402259740 c:\users\martin\desktop\oopto\battlefield.h
+	"Deck.h"
+
+1402505950 source:c:\users\martin\desktop\oopto\skill.cpp
+	"Skill.h"
+
+1402508682 c:\users\martin\desktop\oopto\skill.h
+	<cstring>
+	<iostream>
+	<cstdlib>
+	"BattleField.h"
+
+1402507141 source:c:\users\martin\desktop\oopto\attackskill.cpp
+	"attackSkill.h"
+
+1402507606 c:\users\martin\desktop\oopto\attackskill.h
+	"Skill.h"
+	"CriticalSkill.h"
+
+1402467868 source:c:\users\martin\desktop\oopto\postponeskill.cpp
+	"postponeSkill.h"
+
+1402467342 c:\users\martin\desktop\oopto\postponeskill.h
+	"Skill.h"
+
+1402467930 source:c:\users\martin\desktop\oopto\healingskill.cpp
+	"healingSkill.h"
+
+1402467340 c:\users\martin\desktop\oopto\healingskill.h
+	"Skill.h"
+	"RandHealSkill.h"
+
+1402467927 source:c:\users\martin\desktop\oopto\dispelskill.cpp
+	"dispelSkill.h"
+
+1402467343 c:\users\martin\desktop\oopto\dispelskill.h
+	"Skill.h"
+
+1402259674 c:\users\martin\desktop\oopto\ongraveyardskill.h
+
+1402259674 source:c:\users\martin\desktop\oopto\ongraveyardskill.cpp
+	"onGraveYardSkill.h"
+
+1402468142 source:c:\users\martin\desktop\oopto\criticalskill.cpp
+	"CriticalSkill.h"
+
+1402467688 c:\users\martin\desktop\oopto\criticalskill.h
+	"Skill.h"
+
+1402468118 source:c:\users\martin\desktop\oopto\randhealskill.cpp
+	"RandHealSkill.h"
+
+1402468029 c:\users\martin\desktop\oopto\randhealskill.h
+	"Skill.h"
+
+1402505734 source:c:\users\martin\desktop\oopto\bigfireball.cpp
+	"BigFireBall.h"
+
+1402467344 c:\users\martin\desktop\oopto\bigfireball.h
+	"Skill.h"
+	"CriticalSkill.h"
+
+1402468098 source:c:\users\martin\desktop\oopto\teamhealing.cpp
+	"TeamHealing.h"
+
+1402467337 c:\users\martin\desktop\oopto\teamhealing.h
+	"Skill.h"
+	"RandHealSkill.h"
+
+1402512868 source:c:\users\martin\desktop\oopto\guard.cpp
+	"Guard.h"
+
+1402512807 c:\users\martin\desktop\oopto\guard.h
+	"Card.h"
+
+1402513371 source:c:\users\martin\desktop\oopto\assasin.cpp
+	"Assasin.h"
+
+1402513371 c:\users\martin\desktop\oopto\assasin.h
+	"Card.h"
+
+1404494557 source:c:\users\martin\desktop\oopto - copy\assasin.cpp
+	"Assasin.h"
+	"Deck.h"
+
+1404494549 c:\users\martin\desktop\oopto - copy\assasin.h
+	"Card.h"
+
+1404494602 c:\users\martin\desktop\oopto - copy\card.h
+	<iostream>
+	"header.h"
+	"attackSkill.h"
+	"BigFireBall.h"
+	"dispelSkill.h"
+	"healingSkill.h"
+	"postponeSkill.h"
+	"TeamHealing.h"
+	"SpellFactory.h"
+
+1404369567 c:\users\martin\desktop\oopto - copy\header.h
+	<iostream>
+	<iomanip>
+	<cstring>
+	<fstream>
+
+1404499295 source:c:\users\martin\desktop\oopto - copy\attackskill.cpp
+	"attackSkill.h"
+	"Deck.h"
+
+1404494641 c:\users\martin\desktop\oopto - copy\attackskill.h
+	"Skill.h"
+
+1404492389 c:\users\martin\desktop\oopto - copy\skill.h
+	"header.h"
+
+1404499067 c:\users\martin\desktop\oopto - copy\battlefield.h
+	"Deck.h"
+	"Player.h"
+
+1404463703 c:\users\martin\desktop\oopto - copy\deck.h
+	<iostream>
+	"header.h"
+	"Assasin.h"
+	"Guard.h"
+	"cardFactory.h"
+
+1404369332 c:\users\martin\desktop\oopto - copy\criticalskill.h
+	"Skill.h"
+
+1404500076 source:c:\users\martin\desktop\oopto - copy\battlefield.cpp
+	"BattleField.h"
+
+1404499308 source:c:\users\martin\desktop\oopto - copy\bigfireball.cpp
+	"BigFireBall.h"
+	"Deck.h"
+
+1404494633 c:\users\martin\desktop\oopto - copy\bigfireball.h
+	"Skill.h"
+
+1404499784 source:c:\users\martin\desktop\oopto - copy\card.cpp
+	"Card.h"
+	"Deck.h"
+	"BattleField.h"
+
+1402468142 source:c:\users\martin\desktop\oopto - copy\criticalskill.cpp
+	"CriticalSkill.h"
+
+1404491804 source:c:\users\martin\desktop\oopto - copy\deck.cpp
+	"Deck.h"
+
+1404499344 source:c:\users\martin\desktop\oopto - copy\dispelskill.cpp
+	"dispelSkill.h"
+	"Deck.h"
+
+1404494689 c:\users\martin\desktop\oopto - copy\dispelskill.h
+	"Skill.h"
+
+1404494545 source:c:\users\martin\desktop\oopto - copy\guard.cpp
+	"Guard.h"
+
+1404494536 c:\users\martin\desktop\oopto - copy\guard.h
+	"Card.h"
+
+1404499339 source:c:\users\martin\desktop\oopto - copy\healingskill.cpp
+	"healingSkill.h"
+	"Deck.h"
+
+1404494689 c:\users\martin\desktop\oopto - copy\healingskill.h
+	"Skill.h"
+
+1404369178 c:\users\martin\desktop\oopto - copy\randhealskill.h
+	"Skill.h"
+
+1404491567 source:c:\users\martin\desktop\oopto - copy\main.cpp
+	<iostream>
+	"header.h"
+	"Guard.h"
+	"Assasin.h"
+	"Deck.h"
+	"BattleField.h"
+	"attackSkill.h"
+	"healingSkill.h"
+	"BigFireBall.h"
+	"postponeSkill.h"
+	"Player.h"
+
+1404494689 c:\users\martin\desktop\oopto - copy\postponeskill.h
+	"Skill.h"
+
+1404499332 source:c:\users\martin\desktop\oopto - copy\postponeskill.cpp
+	"postponeSkill.h"
+	"Deck.h"
+
+1402468118 source:c:\users\martin\desktop\oopto - copy\randhealskill.cpp
+	"RandHealSkill.h"
+
+1404493449 source:c:\users\martin\desktop\oopto - copy\skill.cpp
+	"Skill.h"
+	"BattleField.h"
+	"Deck.h"
+
+1404499330 source:c:\users\martin\desktop\oopto - copy\teamhealing.cpp
+	"TeamHealing.h"
+	"Deck.h"
+
+1404494689 c:\users\martin\desktop\oopto - copy\teamhealing.h
+	"Skill.h"
+
+1404500225 source:c:\users\martin\desktop\oopto - copy\player.cpp
+	"Player.h"
+
+1404499851 c:\users\martin\desktop\oopto - copy\player.h
+	"Deck.h"
+	"header.h"
+
+1404458946 c:\users\martin\desktop\oopto - copy\spellfactory.h
+	"attackSkill.h"
+	"BigFireBall.h"
+	"dispelSkill.h"
+	"healingSkill.h"
+	"postponeSkill.h"
+	"TeamHealing.h"
+
+1404461632 source:c:\users\martin\desktop\oopto - copy\spellfactory.cpp
+	"SpellFactory.h"
+
+1404463682 source:c:\users\martin\desktop\oopto - copy\cardfactory.cpp
+	"cardFactory.h"
+
+1404463565 c:\users\martin\desktop\oopto - copy\cardfactory.h
+	"Assasin.h"
+	"Guard.h"
+

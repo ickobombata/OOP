@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1470414382 source:/home/ickobombata/Desktop/heroes/main.cpp
+	<iostream>
+	"Hero.h"
+	"Weapon.h"
+	"Chest.h"
+	"Boots.h"
+	"Monster.h"
+	"Map.h"
+	"CUI.h"
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Boots.cpp
+	"Boots.h"
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Boots.h
+	<Item.h>
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Item.h
+	<string>
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Chest.cpp
+	"Chest.h"
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Chest.h
+	<Item.h>
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Item.cpp
+	"Item.h"
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Weapon.cpp
+	"Weapon.h"
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Weapon.h
+	<Item.h>
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Cell.cpp
+	"Cell.h"
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Cell.h
+	<iostream>
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Map.cpp
+	"Map.h"
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Map.h
+	"Cell.h"
+	"Weapon.h"
+	"Chest.h"
+	"Boots.h"
+	"Monster.h"
+	"Hero.h"
+	"Wall.h"
+	"Empty.h"
+	"Battle.h"
+	<vector>
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<math.h>
+	<iostream>
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Character.cpp
+	"Character.h"
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Character.h
+	<Cell.h>
+	<string>
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Monster.cpp
+	"Monster.h"
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Monster.h
+	<Character.h>
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Hero.h
+	<string>
+	"Weapon.h"
+	"Chest.h"
+	"Boots.h"
+	"Character.h"
+	<vector>
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Wall.h
+	<Cell.h>
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Empty.h
+	<Cell.h>
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Empty.cpp
+	"Empty.h"
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Wall.cpp
+	"Wall.h"
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Hero.cpp
+	"Hero.h"
+
+1470414382 /home/ickobombata/Desktop/heroes/include/CUI.h
+	<iostream>
+	"Hero.h"
+	"Weapon.h"
+	"Chest.h"
+	"Boots.h"
+	"Monster.h"
+	"Map.h"
+	"Game.h"
+	<iomanip>
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/CUI.cpp
+	"CUI.h"
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Battle.h
+	"Hero.h"
+	"Monster.h"
+	<iomanip>
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Battle.cpp
+	"Battle.h"
+
+1470414382 source:/home/ickobombata/Desktop/heroes/src/Game.cpp
+	"Game.h"
+
+1470414382 /home/ickobombata/Desktop/heroes/include/Game.h
+	"Map.h"
+
